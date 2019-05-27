@@ -1,0 +1,114 @@
+body {
+    background-image:url(fon.png); 
+    background-size: 100% 200%;
+}
+
+.bodylite {
+    width: 666px;
+    height: 575px;
+    background-color:#00FF00;
+    background-image:url(Jeniffer.png);
+}
+
+
+.block {
+    width: 43%;
+    height: 100px;
+    background-color: #00FF7F;
+}
+
+
+.lefting {
+    width:100%;
+    height:75px;
+}
+
+.header {
+	width: 1000%;
+	height: 300%;
+	background-color: #FF4500;
+    background-image:url(Nya.png);
+    background-size: 100% 200%;
+}
+
+
+
+
+
+.logotype {
+    width: 100%; 
+    height: 50px;
+    background-color: #FFFFE0;
+    float: left;
+}
+
+.test{
+    width: 200px;
+    height: 200px;
+    background-color: #00FF00;
+    background-image:url(veer.png);
+
+}
+
+.test:hover{
+    width: 200px;
+    height: 200px;
+    background-color: #FF0000;
+    background-image: url(nya.jpg);
+}
+.test1{
+    width: 200px;
+    height: 200px;
+    background-color: #ADFF2F;
+    background-image:url(ZHmiknopku.png);
+
+}
+
+.test1:hover{
+     width: 200px;
+    height: 200px;
+    background-image:url(lalala.jpg);
+}
+
+.exam {
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 1440px;
+    height: 900px;
+    background-image: url(zaic.jpg);
+    border: 5px solid green;
+    box-shadow: 16px 8px 45px orange;
+}
+30px -30px 0 0 grey,
+0 -45px 0 0 orange,
+0 45px 0 0 aqua,
+45px 0 0 0 brown,
+
+.pom {
+     margin-left: 100px;
+     margin-top: 100px;
+     width: 500px;
+    
+     box-shadow: 16px 8px 45px #FFD700;
+}
+
+.add
+{
+background-color:#00FF00;
+border:1px solid;
+}
+#text2
+{
+display:none;
+}
+
+
+
+
+
+
+
+
+
+
+

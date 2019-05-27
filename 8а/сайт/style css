@@ -1,0 +1,16 @@
+.col {
+	color: red;
+    }
+
+.block {
+	width: 400px;
+	height: 100px;
+	background-color: orange;
+}
+
+.block p {
+	text-align: center;
+	font-size: 24px;
+	color: black;
+	padding-top: 36px;
+}

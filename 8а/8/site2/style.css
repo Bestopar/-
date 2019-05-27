@@ -1,0 +1,17 @@
+body,html {
+	margin:0;
+	padding: 0;
+}
+
+.add
+{
+background-color:#67E667;
+border:1px solid;
+}
+#text2
+{
+display:none;
+}
+
+
+

@@ -1,0 +1,47 @@
+﻿$(document).ready(function(){
+	$(".w1_info1").mouseenter(function(){
+		$(".js1").css({"display":"block"})
+	})
+	$(".w1_info2").mouseenter(function(){
+		$(".js2").css({"display":"block"})
+	})
+	$(".w1_info3").mouseenter(function(){
+		$(".js3").css({"display":"block"})
+	})
+	$(".w1_info4").mouseenter(function(){
+		$(".js4").css({"display":"block"})
+	})
+	$(".w2_info1").mouseenter(function(){
+		$(".js5").css({"display":"block"})
+	})
+	$(".w2_info2").mouseenter(function(){
+		$(".js6").css({"display":"block"})
+	})
+	$(".w2_info3").mouseenter(function(){
+		$(".js7").css({"display":"block"})
+	})
+})
+
+$(document).ready(function(){
+	$(".w1_info1").mouseleave(function(){
+		$(".js1").css({"display":"none"})
+	})
+	$(".w1_info2").mouseleave(function(){
+		$(".js2").css({"display":"none"})
+	})
+	$(".w1_info3").mouseleave(function(){
+		$(".js3").css({"display":"none"})
+	})
+	$(".w1_info4").mouseleave(function(){
+		$(".js4").css({"display":"none"})
+	})
+	$(".w2_info1").mouseleave(function(){
+		$(".js5").css({"display":"none"})
+	})
+	$(".w2_info2").mouseleave(function(){
+		$(".js6").css({"display":"none"})
+	})
+	$(".w2_info3").mouseleave(function(){
+		$(".js7").css({"display":"none"})
+	})
+})

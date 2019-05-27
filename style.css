@@ -1,0 +1,296 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+body {
+	margin: 0;
+  overflow-x: hidden;
+}
+.main {
+  width: 100vw;
+  height: 46vw;
+  background-image: url("img/qqw.jpg");
+  -webkit-background-size: 100vw 46vw;
+  background-size: 100vw 46vw;
+}
+.main_name {
+  width: 100vw;
+  height: 4vw;
+  position: absolute;
+  top: 3vw;
+  background: #00000047;
+  border-bottom: 0.1vw solid #9e908e63;
+  border-top: 0.1vw solid #9e908e63; 
+
+}
+.span1 {
+  font-family: 'Baloo Bhai', cursive;
+  color: white;
+  font-size: 2vw;
+  position: absolute;
+  top: 0.5vw; 
+  left: 11vw;
+  text-shadow: 0vw 0vw 20px #eee;
+}
+.span2 {
+  width: 14vw;
+  font-family: 'Roboto Slab', cursive ;
+  color: white;
+  font-size: 2vw;
+  position: absolute;
+  top: 13.5vw; 
+  left: 11vw;
+  text-shadow: 0vw 0vw 20px #eee;
+}
+.span3 {
+  width: 33vw;
+  font-family: 'Roboto Slab', cursive;
+  color: white;
+  font-size: 1vw;
+  position: absolute;
+  top: 16.5vw;
+  left: 11vw;
+  text-shadow: 0vw 0vw 20px #eee;
+}
+.span4 {
+  width: 16vw;
+  font-family: 'Roboto Slab', cursive;
+  color: white;
+  font-size: 1vw;
+  position: absolute;
+  top: 20.5vw;
+  left: 28vw;
+  text-shadow: 0vw 0vw 20px #eee;
+}
+.work {
+  width: 100vw;
+  height: 46vw;
+  background-image: url("img/b1.jpg");
+  -webkit-background-size: 100vw 46vw;
+  background-size: 100vw 46vw;
+  position: absolute;
+  top: 46vw;
+}
+.w_box {
+  width: 70vw;
+  height: 37vw;
+  position: absolute;
+  left: 14.5vw;
+  top: 5vw; 
+}
+.w1_info1 {
+  width: 17vw;
+  height: 18vw;
+  background: white;
+  position: absolute;
+  background-image: url("img/w1.png");
+  background-size: 17vw 18vw;
+}
+.w1_info2 {
+  width: 17vw;
+  height: 18vw;
+  background: white;
+  position: absolute;
+  left: 17.7vw;
+  background-image: url("img/w2.png");
+  background-size: 17vw 18vw;
+}
+.w1_info3 {
+  width: 17vw;
+  height: 18vw;
+  background: white;
+  position: absolute;
+  left: 35.4vw;
+  background-image: url("img/w3.png");
+  background-size: 17vw 18vw;
+}
+.w1_info4 {
+  width: 17vw;
+  height: 18vw;
+  background: white;
+  position: absolute;
+  left: 53vw;
+  background-image: url("img/w4.png");
+  background-size: 17vw 18vw; 
+}
+.w2_info1 {
+  width: 23vw;
+  height: 18vw;
+  background: white;
+  position: absolute;
+  top: 19vw;
+  background-image: url("img/w5.png");
+  background-size: 23vw 18vw;
+}
+.w2_info2 {
+  width: 23vw;
+  height: 18vw;
+  background: white;
+  position: absolute;
+  top: 19vw;
+  left: 23.5vw;
+  background-image: url("img/w6.png");
+  background-size: 23vw 18vw;
+}
+.w2_info3 {
+  width: 23vw;
+  height: 18vw;
+  background: white;
+  position: absolute;
+  top: 19vw;
+  left: 47vw;
+  background-image: url("img/w7.png");
+  background-size: 23vw 18vw;
+}
+.js1 {
+  width: 17vw;
+  height: 18vw;
+  background: #000000a6;
+  position: absolute;
+  display: none;
+}
+.js2 {
+  width: 17vw;
+  height: 18vw;
+  background: #000000a6;
+  position: absolute;
+  display: none;
+}
+.js3 {
+  width: 17vw;
+  height: 18vw;
+  background: #000000a6;
+  position: absolute;
+  display: none;
+}
+.js4 {
+  width: 17vw;
+  height: 18vw;
+  background: #000000a6;
+  position: absolute;
+  display: none;
+}
+.js5 {
+  width: 23vw;
+  height: 18vw;
+  background: #000000a6;
+  position: absolute;
+  display: none;
+}
+.js6 {
+  width: 23vw;
+  height: 18vw;
+  background: #000000a6;
+  position: absolute;
+  display: none;
+}
+.js7 {
+  width: 23vw;
+  height: 18vw;
+  background: #000000a6;
+  position: absolute;
+  display: none;
+}
+.btn1 {
+  color: white;
+  position: absolute;
+  top: 15.1vw;
+  width: 17vw;
+  height: 3vw;
+  background: #00000047;
+  border: 0.1px solid;
+  border-radius: 0.1vw;
+  transition: 0.2s;
+} 
+.btn1:hover { 
+  background: rgba(255,255,255,.2);
+}
+.btn2 {
+  color: white;
+  position: absolute;
+  top: 15.1vw;
+  width: 17vw;
+  height: 3vw;
+  background: #00000047;
+  border: 0.1px solid;
+  border-radius: 0.1vw;
+  transition: 0.2s;
+} 
+.btn2:hover { 
+  background: rgba(255,255,255,.2);
+}
+.btn3 {
+  color: white;
+  position: absolute;
+  top: 15.1vw;
+  width: 17vw;
+  height: 3vw;
+  background: #00000047;
+  border: 0.1px solid;
+  border-radius: 0.1vw;
+  transition: 0.2s;
+} 
+.btn3:hover { 
+  background: rgba(255,255,255,.2);
+}
+.btn4 {
+  color: white;
+  position: absolute;
+  top: 15.1vw;
+  width: 17vw;
+  height: 3vw;
+  background: #00000047;
+  border: 0.1px solid;
+  border-radius: 0.1vw;
+  transition: 0.2s;
+} 
+.btn4:hover { 
+  background: rgba(255,255,255,.2);
+}
+.btn5 {
+  color: white;
+  position: absolute;
+  top: 15.1vw;
+  width: 23vw;
+  height: 3vw;
+  background: #00000047;
+  border: 0.1px solid;
+  border-radius: 0.1vw;
+  transition: 0.2s;
+} 
+.btn5:hover { 
+  background: rgba(255,255,255,.2);
+}
+.btn6 {
+  color: white;
+  position: absolute;
+  top: 15.1vw;
+  width: 23vw;
+  height: 3vw;
+  background: #00000047;
+  border: 0.1px solid;
+  border-radius: 0.1vw;
+  transition: 0.2s;
+} 
+.btn6:hover { 
+  background: rgba(255,255,255,.2);
+}
+.btn7 {
+  color: white;
+  position: absolute;
+  top: 15.1vw;
+  width: 23vw;
+  height: 3vw;
+  background: #00000047;
+  border: 0.1px solid;
+  border-radius: 0.1vw;
+  transition: 0.2s;
+} 
+.btn7:hover { 
+  background: rgba(255,255,255,.2);
+}
+.footer {
+  width: 100vw;
+  height: 3vw;
+  background: black;
+  position: absolute;
+  top: 92vw;
+}

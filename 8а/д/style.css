@@ -1,0 +1,126 @@
+.col {
+	color: red;
+    }
+.header{
+
+
+}
+
+.block p {
+	text-align: center;
+	font-size: 24px;
+	color: transparent;
+	padding-top: 36px;
+}
+
+body {
+	background-color: #00FF;
+	background-image: url(photo_myshej_01.jpg);
+	background-repeat: no-repeat;
+    background-size: 1815px
+}
+
+ .lefting {
+ 	width: 35%
+ 	height: 20px;
+ 	/*background-color: #fffffff1;*/
+ }
+#menu li{
+	float: left;
+	font: bold 14px Arial; 
+}
+#menu a{
+	color: #666;
+	display:block;
+    height: 40px;
+    line-height: 36px;
+    padding-top: 0px 10px 0px 10px;
+}
+
+.v1 a{
+	font-size: 20px;
+	margin-left: 30px;
+	text-decoration:;
+	color: black;
+}
+
+.test{
+	width: 10px;
+	height: 10px;
+	background-color: black;
+}
+.test:hover{
+	width: 500px;
+	height: 281px;
+	background-image:url(пп.gif);
+}
+
+
+.exam {
+	margin-left: 0px;
+	margin-top: 0px;
+	width: 300px;
+	height: 300px;
+	border: 1px solid gray;
+	box-shadow: 8px 10px 5px red;
+	background-image: url(гг.jpg);
+}
+.exam h1{
+	text-align: center;
+	text-shadow: 3px 3px 5px red;
+	font-size: 60px;
+	color: red;
+}
+
+h1 {
+	color: rgba(255,4,11);
+}
+
+a {
+	text-decoration: none;
+}
+
+input {
+  width: 200px;
+  height: 20px;
+  color: white;
+  background-color: blue;
+}
+
+.kryg {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: red;
+}
+
+.t1 {
+  width: 100px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: blue;
+}
+.kk{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+
+.tt{
+  width: 0px;
+  height: 0px;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid blue;  
+}
+
+.add
+{
+background-color:#67E667;
+border:1px solid;
+}
+#text2
+{
+display:none;
+}
+
